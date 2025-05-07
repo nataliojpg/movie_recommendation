@@ -1,3 +1,5 @@
+![Movie Recommender Banner](./img/netflixbanner.jpg)
+
 # Movie Recommendations
 This is a web-based movie recommendation app built with **Streamlit** and **scikit-learn**, using Netflix's movie data. It allows users to:
 
@@ -23,6 +25,7 @@ Once you've given feedback, hit "🔍 Recommend Movies".
 View your recommendations based on your taste.
 
 Check your voting history any time.
+![Example](./img/movies.png)
 
 ## Future Plans
 
